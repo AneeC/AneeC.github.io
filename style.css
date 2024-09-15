@@ -47,23 +47,15 @@ body> header {
     border-radius: 10%;
 }
 
-#introduction {
-    display: flex;
-    justify-content: space-around;
+#intro {
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
 }
     
-#image {
-    border-radius: 50%;
-    margin: 50px;
-    }
-    
-#intro-text {
-    color: white;
-    background-color: #cb7575;
-    padding: 80px;
-    margin: 50px;
-    text-align:center;
-    }  
     
 .article-image {
     border-radius: 50%;
