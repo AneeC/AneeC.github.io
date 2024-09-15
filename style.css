@@ -7,9 +7,10 @@ body {
 
 #logo {
     color: #f0e5de;
-    font-family: "Pacifico", Helvetica, Arial, sans-serif;
     margin: 0px;
     padding: 8px;
+    font-family: "Pacifico", Helvetica, Arial, sans-serif;
+    width: 16%;
     text-shadow: 
     1px 1px 0px #972637,    /* Bottom-right shadow */
     -1px 1px 0px #972637,   /* Bottom-left shadow */
@@ -20,7 +21,7 @@ body {
 body> header {
     background-color: #cb7575;
     display: flex;
-    height: 20vh;
+    height: 12vh;
     align-items: center;
     justify-content: space-around;
 }
