@@ -48,22 +48,22 @@ body> header {
     margin: 50px;
     }
     
-    #image {
-        border-radius: 50%;
-        margin: 50px;
+#image {
+    border-radius: 50%;
+    margin: 50px;
     }
     
-    .article-image {
-        border-radius: 50%;
-        align-content: center;
+.article-image {
+    border-radius: 50%;
+    align-content: center;
     }
     
-    #intro-text {
-        color: white;
-        background-color: #cb7575;
-        padding: 80px;
-        margin: 50px;
-        text-align:center;
+#intro-text {
+    color: white;
+    background-color: #cb7575;
+    padding: 80px;
+    margin: 50px;
+    text-align:center;
     }    
 
 body > main article {
