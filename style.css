@@ -50,18 +50,11 @@ body> header {
 #introduction {
     display: flex;
     justify-content: space-around;
-    margin: 50px;
 }
-
     
 #image {
     border-radius: 50%;
     margin: 50px;
-    }
-    
-.article-image {
-    border-radius: 50%;
-    align-content: center;
     }
     
 #intro-text {
@@ -70,7 +63,12 @@ body> header {
     padding: 80px;
     margin: 50px;
     text-align:center;
-    }    
+    }  
+    
+.article-image {
+    border-radius: 50%;
+    align-content: center;
+    }
 
 body > main article {
     width: 60%;
