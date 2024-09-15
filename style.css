@@ -9,7 +9,7 @@ body {
     color: white;
     margin: 0px;
     padding: 8px;
-    font-family: "Pacifico", Helvetica, Arial, sans-serif;
+    font-family: "Pacifico", Helvetica;
     text-shadow: 
     1px 1px 0px #972637,    /* Bottom-right shadow */
     -1px 1px 0px #972637,   /* Bottom-left shadow */
@@ -53,9 +53,7 @@ body> header {
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    align-items: center;
 }
-    
     
 .article-image {
     border-radius: 50%;
